@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemKernel", "SemKernel\SemKernel.csproj", "{A3EE84C4-9961-4658-8A75-DC6943848F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAiChat", "OpenAiChat\OpenAiChat.csproj", "{B8FF0D01-F781-49AD-B88C-6A4C8F213A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A3EE84C4-9961-4658-8A75-DC6943848F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EE84C4-9961-4658-8A75-DC6943848F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EE84C4-9961-4658-8A75-DC6943848F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FF0D01-F781-49AD-B88C-6A4C8F213A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FF0D01-F781-49AD-B88C-6A4C8F213A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FF0D01-F781-49AD-B88C-6A4C8F213A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF0D01-F781-49AD-B88C-6A4C8F213A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
